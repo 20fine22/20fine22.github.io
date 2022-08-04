@@ -1,3 +1,10 @@
+---
+layout: post
+title: 테스트 글입니다.
+date: 7/5/2022
+category: test
+---
+
 ## 테스트 글입니다. <br/>
 <br/>
 이 글은 테스트 용도로 올려보는 글 입니다. <br> <br/>
