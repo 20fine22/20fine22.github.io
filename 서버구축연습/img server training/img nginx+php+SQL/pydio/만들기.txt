@@ -1,0 +1,4 @@
+Pydio를 이용한 IIS 웹 서버 만들기
+
+사용 프로그램 : Pydio 8
+구성 필수 요소 : IIS, Mysql. PHP
